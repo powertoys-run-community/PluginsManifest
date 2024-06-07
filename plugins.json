@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "B5E595872B8068104D5AD6BBE39A6664",
+    "Name": "Web Search Shortcut",
+    "Description": "A simple PowerToys Run plugin for quickly select a specific search engine to perform searches.",
+    "Author": "Daydreamer-riri",
+    "Version": "0.6.1",
+    "Language": "csharp",
+    "Website": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut",
+    "IcoPathDark": "https://cdn.jsdelivr.net/gh/Daydreamer-riri/PowerToys-Run-WebSearchShortcut@main/Community.PowerToys.Run.Plugin.WebSearchShortcut/Images/Search.dark.png",
+    "IcoPathLight": "https://cdn.jsdelivr.net/gh/Daydreamer-riri/PowerToys-Run-WebSearchShortcut@main/Community.PowerToys.Run.Plugin.WebSearchShortcut/Images/Search.light.png",
+    "UrlDownload-x86": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/releases/download/0.6.1/WebSearchShortcut-0.6.1-x64.zip",
+    "UrlDownload-arm": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/releases/download/0.6.1/WebSearchShortcut-0.6.1-ARM64.zip",
+    "UrlSourceCode": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/tree/main"
+  }
+]
